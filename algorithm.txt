@@ -1,0 +1,25 @@
+Downloaded what we went over in class (wordshop.py)
+
+Imported re
+Define getWordsFromFile module to fit the importing of the file and the first two for loops
+Close iFile at the bottom of the last for loop, dedented once
+Return words
+
+Define main module
+Create usedWords empty list
+Open new file and Write the header "Word" and "Number of Occurences"
+Create wordList equal to the getWordsFromFile module
+Sort wordList
+Make for loop to find words in wordList
+If statement that finds if a word had been used.  If so, then it won't precede and will continue to the top of the loop
+else it will append it to the used words
+Write the individual words and their matching count number to the new file
+Write to go to newline after every input
+Close new file
+
+Run main
+
+TROUBLESHOOTING:
+Had trouble figuring out how to get the words to only occur once.
+Asked a friend for some helpful knowledge and he/she/it delivered
+SOLVED *thumbs up emoji*
